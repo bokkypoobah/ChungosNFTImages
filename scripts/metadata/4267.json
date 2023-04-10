@@ -1,0 +1,35 @@
+{
+  "name": "Chungos #4267",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/4267.png",
+  "imageHash": "bb0c599a0183a6d363d97c0c4ac859b92e5d7e393d518b8336dae3ff8d2e660e",
+  "edition": 4267,
+  "date": 1675412789089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cat Bucket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "DisguiseMask"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #2858",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/2858.png",
+  "imageHash": "be6cceaf78b338c7c0964e9f678538cf107be86e8460aafe227de535697a2e86",
+  "edition": 2858,
+  "date": 1675412779579,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Big Mouth"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

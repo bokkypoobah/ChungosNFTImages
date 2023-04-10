@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #1605",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/1605.png",
+  "imageHash": "fe36d11094060a7e1c3fe518323c491c6e3c37958a06d6e7f130329e536166ac",
+  "edition": 1605,
+  "date": 1675410552020,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Meat Chungo"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #5387",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/5387.png",
+  "imageHash": "eae6a425f6cc933c7b60a6246031ec8cfffe0a2141feb436bdd3f655a466f4cd",
+  "edition": 5387,
+  "date": 1675412845885,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Cosmic Energy"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

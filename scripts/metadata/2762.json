@@ -1,0 +1,27 @@
+{
+  "name": "Chungos #2762",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/2762.png",
+  "imageHash": "2777412c2c8340d7ccea9815585b8e001635b0eedea27ea0df768aa0b0b8ef7b",
+  "edition": 2762,
+  "date": 1675412466864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Hoodie"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Jason"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
