@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #6685",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/6685.png",
+  "imageHash": "ea10d0dc4d7cc2fa39f05cf7ba0a90d14ca4acf7f12345f8cb7867daa012b466",
+  "edition": 6685,
+  "date": 1675412839667,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "X-Ray"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
