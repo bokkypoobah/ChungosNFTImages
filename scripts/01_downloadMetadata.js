@@ -1,12 +1,9 @@
 var fs = require('fs');
 const util = require('util');
 // Run `npm install node-fetch` in the scripts subdirectory.
-// const fetch = require('node-fetch');
-// import fetch from 'node-fetch';
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
-const BATCHSIZE = 4;
-const TOTALSUPPLY = 100; // 8888
+const TOTALSUPPLY = 8888;
 
 const downloadFile = (async (url, path) => {
   const res = await fetch(url, { timeout: 10000 });
