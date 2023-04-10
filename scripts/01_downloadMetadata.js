@@ -16,7 +16,7 @@ const downloadFile = (async (url, path) => {
 });
 
 async function doit() {
-  for (let i = 1; i < TOTALSUPPLY; i ++) {
+  for (let i = 1; i <= TOTALSUPPLY; i ++) {
     let filename = "metadata/" + i + ".json";
     while (!fs.existsSync(filename)) {
       let url = "https://ipfs.io/ipfs/bafybeifm5bnzc3oqrbyr6j6r2mmamdrism67k4ozecujv5ln4lgnmuufu4/" + i + ".json";

@@ -16,7 +16,7 @@ const downloadFile = (async (url, path) => {
 });
 
 async function doit() {
-  for (let i = 1; i < TOTALSUPPLY; i ++) {
+  for (let i = 1; i <= TOTALSUPPLY; i ++) {
     let filename = "images/" + i + ".png";
     while (!fs.existsSync(filename)) {
       let url = "https://ipfs.io/ipfs/bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/" + i + ".png";

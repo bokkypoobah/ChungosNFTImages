@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #8164",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/8164.png",
+  "imageHash": "0d040469b1e1e7b45150127ac61bd15857c1c56e0749d64a78a639d8db2ab163",
+  "edition": 8164,
+  "date": 1675412710010,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Upside Down"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
