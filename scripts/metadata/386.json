@@ -1,0 +1,15 @@
+{
+  "name": "Chungos #386",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/386.png",
+  "imageHash": "c6e4f5227cff5343b70428733cbcc3206988993bc7414b06f352caecaefd2e56",
+  "edition": 386,
+  "date": 1675404727956,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "XCHUNGO"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

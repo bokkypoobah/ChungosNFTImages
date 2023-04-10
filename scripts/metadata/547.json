@@ -1,0 +1,31 @@
+{
+  "name": "Chungos #547",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/547.png",
+  "imageHash": "a0b8937c84efa377d6b8e1345df1a22f8d3a1a0da10a6d95558b3f034dcc1be4",
+  "edition": 547,
+  "date": 1675412560835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

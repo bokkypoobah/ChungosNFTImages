@@ -1,0 +1,43 @@
+{
+  "name": "Chungos #289",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/289.png",
+  "imageHash": "ba421aec230b7297c1542faeae317a32edfe5a6f374069555549f224d7f2ecf8",
+  "edition": 289,
+  "date": 1675406529009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yelllow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Fur"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Big Pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "NoBrow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ceaser"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Goliath"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

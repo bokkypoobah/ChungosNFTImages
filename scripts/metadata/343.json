@@ -1,0 +1,27 @@
+{
+  "name": "Chungos #343",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/343.png",
+  "imageHash": "207543f6158360e99b12cc882eeb4f66b29321e7f5b02c6b89e4b71382004d92",
+  "edition": 343,
+  "date": 1675412488296,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ultra Golden Armour 2"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Skull"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

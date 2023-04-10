@@ -1,0 +1,31 @@
+{
+  "name": "Chungos #353",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/353.png",
+  "imageHash": "698c0ebe277757d3061c13920df4bef93dd053a2486e9539861251609b28dee1",
+  "edition": 353,
+  "date": 1675412578962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ringer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lipstick"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Robo"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

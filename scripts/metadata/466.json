@@ -1,0 +1,35 @@
+{
+  "name": "Chungos #466",
+  "description": "8888 Chungos",
+  "image": "ipfs://bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/466.png",
+  "imageHash": "40f1e10edc5bc67a4a6dbf5f1b5cd28ce3bacbceb13625148db45b87c658b329",
+  "edition": 466,
+  "date": 1675412793456,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Yelllow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "NoBody"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Energy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chung"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "DisguiseMask"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
