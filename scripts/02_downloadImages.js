@@ -1,0 +1,38 @@
+var fs = require('fs');
+const util = require('util');
+// Run `npm install node-fetch` in the scripts subdirectory.
+// const fetch = require('node-fetch');
+// import fetch from 'node-fetch';
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+
+const BATCHSIZE = 4;
+const TOTALSUPPLY = 100; // 8888
+
+const downloadFile = (async (url, path) => {
+  const res = await fetch(url, { timeout: 10000 });
+  const fileStream = fs.createWriteStream(path);
+  await new Promise((resolve, reject) => {
+    res.body.pipe(fileStream);
+    res.body.on("error", reject);
+    fileStream.on("finish", resolve);
+  });
+});
+
+async function doit() {
+  for (let i = 1; i < TOTALSUPPLY; i ++) {
+    let filename = "images/" + i + ".png";
+    while (!fs.existsSync(filename)) {
+      let url = "https://ipfs.io/ipfs/bafybeifokemovozgkzdswmj2exrljppk27cfkfs6jhsv4cevyunl5kcpfq/" + i + ".png";
+      console.log(url);
+      try {
+        await downloadFile(url, filename);
+      } catch (e) {
+        console.error("Error downloading: " + filename);
+      }
+    }
+  }
+}
+
+doit();
+
+console.log(process.cwd());
